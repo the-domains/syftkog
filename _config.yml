@@ -1,0 +1,28 @@
+name: SYFTKOG
+favicon: null
+layout_spectrum: 0.35000451654195786
+typography_spectrum: 0.5436346759088337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6528328410349786
+  lightness: 0.7110795530024916
+  saturation: 0.8587661578785628
+  rhythmicContrast: 0.7222328037023544
+purpose: []
