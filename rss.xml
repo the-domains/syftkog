@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Must be the Music..Just the Wax Or Tracks]]></title>
+        <description><![CDATA[Must be the Music..Just the Wax Or Tracks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 06:26:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://www.youtube.com/watch?v=yPG0qj8KRH4</link>
+            <guid isPermaLink="false">cd742457-9c15-4cff-8547-072a28b5c8e0</guid>
+            <pubDate>Tue, 15 Mar 2016 06:26:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
